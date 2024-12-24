@@ -6,3 +6,4 @@ wordcloud
 emoji
 plotly
 matplotlib
+seaborn
