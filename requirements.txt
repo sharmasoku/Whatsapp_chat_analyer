@@ -3,7 +3,6 @@ streamlit
 numpy 
 urlextract
 wordcloud
-collections
 emoji
 plotly
 matplotlib
