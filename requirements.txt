@@ -1,7 +1,6 @@
 pandas 
 streamlit
 numpy 
-re
 urlextract
 wordcloud
 collections
