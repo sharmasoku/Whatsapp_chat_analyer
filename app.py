@@ -273,5 +273,5 @@ if uploaded_file is not None:
             st.plotly_chart(fig)
 
 # Sidebar Footer Styling
-st.sidebar.markdown("<small style='text-align: center; color: grey;'>© 2024 Powered by WhatsApp Chat Analyzer</small>",
+st.sidebar.markdown("<small style='text-align: center; color: grey;'>© 2025 Powered by WhatsApp Chat Analyzer</small>",
                     unsafe_allow_html=True)
