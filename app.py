@@ -275,3 +275,7 @@ if uploaded_file is not None:
 # Sidebar Footer Styling
 st.sidebar.markdown("<small style='text-align: center; color: grey;'>© 2025 Powered by WhatsApp Chat Analyzer</small>",
                     unsafe_allow_html=True)
+
+
+
+# heyo this is sourav sharma
